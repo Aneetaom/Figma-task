@@ -26,19 +26,19 @@ li{
     background-color: yellow;
 }
 .para1{
-    padding: 100px 140px;
+    padding: 100px 130px;
 
 }
 .para2{
-    font-size: larger;
-    padding: 0px 140px;
+    font-size: medium;
+    padding: 0px 130px;
    
 }
 .input{
     
    outline: 1px solid rgb(11, 112, 234);
    /* margin-right: -10px; */
-   margin-left: 20%;
+   margin-left: 25%;
    
 }
 .button{
@@ -51,7 +51,7 @@ li{
    
 }
 .para3{
-    padding: 12px 140px; 
+    padding: 12px 130px; 
 }
 .container{
   
@@ -149,14 +149,14 @@ padding: 20px 140px;
     height: 20%;
    background-color: cornsilk; 
     box-shadow: peachpuff;
-   left: 200px;
+   left: 100px;
 }   
 .card7{
     width: 25%;
     height: 20%;
     box-shadow: peachpuff;
     background-color: cornsilk;
-   left: 690px;
+   left: 520px;
    bottom: 230px;   
 } 
 .card8{
@@ -164,13 +164,13 @@ padding: 20px 140px;
     height: 20%;
     box-shadow: peachpuff;
     background-color: cornsilk; 
-    left: 1180px;
-    bottom: 451px;  
+    left: 940px;
+    bottom: 460px;  
 }
 .code{
     /* left: 1150px;
     bottom: 431px;  */
-   margin-top: -23%;
+   margin-top: -30%;
     text-align: center;
 }
 .pic{
@@ -179,14 +179,7 @@ padding: 20px 140px;
     margin-left: -80px;
     
 }
-@media only screen and (max-width:1260){
-    .child1{
-       
-       
-         padding: 100px 100px; 
-    }
 
-}
 
   
 
