@@ -1,0 +1,196 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+   
+}
+ 
+.navbar{
+   background-color: rgb(210, 202, 202);
+color: solid black;
+text-align: center;
+/* justify-content: space-evenly !important; */
+ 
+}
+
+li{
+    padding: 0.625rem 1.875rem;
+    line-height: 1.5625rem;
+}
+.one{
+    cursor: pointer;
+}
+.sp{
+
+    background-color: yellow;
+}
+.para1{
+    padding: 100px 140px;
+
+}
+.para2{
+    font-size: larger;
+    padding: 0px 140px;
+   
+}
+.input{
+    
+   outline: 1px solid rgb(11, 112, 234);
+   /* margin-right: -10px; */
+   margin-left: 20%;
+   
+}
+.button{
+    background-color: rgb(37, 114, 209);
+    color: white;
+    outline: 1px solid rgb(11, 112, 234);
+   border: none;
+   height: 28px;
+  
+   
+}
+.para3{
+    padding: 12px 140px; 
+}
+.container{
+  
+    display: flex;
+     position: relative; 
+     margin-left: -0%;
+   
+}
+
+.child2 img{
+  display: flex; 
+  position: relative;
+margin-bottom: -9%;
+padding: 20px 140px;
+}
+.insta{
+    right: 10px;
+    top:  400px;
+ position: absolute; 
+     z-index: 2; 
+}
+.i{
+    width: 80%;
+    height: 30%;
+     display: flex; 
+  left: 370px;
+ bottom: 587px;
+}
+ 
+.page{
+    height: 2px;
+    background-color: black;
+    display: block;
+   
+}
+.two{
+    text-align: center;
+    padding: 150px 100px ; 
+     background-color: rgb(220, 237, 227); 
+   word-spacing: 2px;
+}
+.card{
+     width: 16%;
+    height: 200px;  
+    box-shadow: peachpuff;
+     padding: 20px  ;
+     align-items: center; 
+    /* display: flex; */
+ left: 35px;
+}
+.card2{
+    width: 16%;
+    height: 200px;  
+    box-shadow: peachpuff;
+    left: 350px;
+       bottom: 200px;     
+   
+     /* top: 0px;   */   
+}
+.card3{
+    left: 665px;
+    /* bottom: 634px; */
+    width: 16%;
+    height: 200px;
+    box-shadow: peachpuff;
+     bottom: 400px;  
+}
+.card4{
+    left: 980px;
+    bottom: 600px;
+    width: 16%;
+    height: 200px;
+    box-shadow: peachpuff;
+}
+.card5{
+    left: 1290px;
+    bottom: 800px;
+    width: 16%;
+    height: 200px;
+    box-shadow: peachpuff;
+}
+
+  .card img{
+ height: 30px;
+    width: 30px;
+ justify-items: center;
+}  
+.three{
+    text-align: center;
+    padding: 70px ; 
+}
+.card6
+{
+    width: 25%;
+    height: 20%;
+   background-color: cornsilk; 
+    box-shadow: peachpuff;
+   left: 200px;
+}   
+.card7{
+    width: 25%;
+    height: 20%;
+    box-shadow: peachpuff;
+    background-color: cornsilk;
+   left: 690px;
+   bottom: 230px;   
+} 
+.card8{
+    width: 25%;
+    height: 20%;
+    box-shadow: peachpuff;
+    background-color: cornsilk; 
+    left: 1180px;
+    bottom: 451px;  
+}
+.code{
+    /* left: 1150px;
+    bottom: 431px;  */
+   margin-top: -23%;
+    text-align: center;
+}
+.pic{
+    height: 70px;
+    width: 50px;
+    margin-left: -80px;
+    
+}
+@media only screen and (max-width:1260){
+    .child1{
+       
+       
+         padding: 100px 100px; 
+    }
+
+}
+
+  
+
+
+   
+
+
